@@ -1,0 +1,9 @@
+{
+  "name": "movie-rating-prediction-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite --host 0.0.0.0" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "lucide-react": "latest" },
+  "devDependencies": {}
+}
